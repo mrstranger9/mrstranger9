@@ -18,10 +18,10 @@ I'm a final-year **B.Tech Information Technology student** passionate about **Ar
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/Uday-Shankar-Somana">
+<a href="https://www.linkedin.com/in/udayshankar9/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/mr._.prototype">
+<a href="https://instagram.com/tech.stranger">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/mr_stranger_9">
