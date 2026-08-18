@@ -112,80 +112,13 @@ I'm a final-year **B.Tech Information Technology student** passionate about **Ar
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrstranger9&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstranger9&theme=radical&hide_border=true&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstranger9&theme=radical&hide_border=true"/>
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mrstranger9&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
----
 
-# 🧩 My Learning Journey
-
-```text
-             AI ENGINEERING JOURNEY
-                     │
-                     ▼
-              🐍 Python Programming
-                     │
-                     ▼
-             📊 Data & Mathematics
-                     │
-                     ▼
-             🧠 Machine Learning
-                     │
-                     ▼
-          🤖 Generative AI & LLMs
-                     │
-                     ▼
-            🚀 AI Applications
-                     │
-                     ▼
-           🌐 Deployment & APIs
-                     │
-                     ▼
-             💡 AI ENGINEER
-```
-
----
-
-# 📚 Currently Learning
-
-* 🤖 Generative AI
-* 🧠 Large Language Models
-* 🐍 Advanced Python
-* 📊 Machine Learning
-* 🔗 LLM Application Development
-* 🚀 AI Engineering
-* 🌐 AI Application Deployment
-* 💡 Building production-oriented AI projects
-
----
-
-# 🎯 2026–2027 Goals
-
-* [ ] 🚀 Build impactful GenAI projects
-* [ ] 🤖 Strengthen LLM development skills
-* [ ] 🧠 Master core Machine Learning concepts
-* [ ] 🌐 Build and deploy AI applications
-* [ ] 💼 Become industry-ready for AI Engineer roles
-* [ ] ⭐ Build a strong GitHub portfolio
-* [ ] 📚 Keep learning, exploring and growing
-
----
 
 # 💡 Developer Philosophy
 
@@ -201,34 +134,7 @@ I believe the best way to learn technology is by **building real things, solving
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
-
-### 🔝 Top Contributed Repository
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=mrstranger9&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-### 😂 Developer Meme
-
-<p align="center">
-<img src="https://memer-new.vercel.app/" height="400"/>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=mrstranger9&icon=0&color=0"/>
-</p>
-
----
-
-<p align="center">
-
+--
 ### ⭐ If you find my projects interesting, consider giving them a star!
 
 **Thanks for visiting my profile! 🚀**
