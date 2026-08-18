@@ -31,32 +31,6 @@ I'm a final-year **B.Tech Information Technology student** passionate about **Ar
 
 ---
 
-# 🧠 What I'm Currently Working On
-
-```text
-🤖 Generative AI
-   ├── Large Language Models
-   ├── AI Applications
-   └── Prompt Engineering
-
-🧠 Machine Learning
-   ├── Model Development
-   ├── Data Processing
-   └── Real-World ML Projects
-
-🐍 Python
-   ├── AI / ML Development
-   ├── Automation
-   └── Backend & APIs
-
-🚀 AI Engineering
-   ├── Building AI Applications
-   ├── Experimenting with LLMs
-   └── Learning Deployment & Production Workflows
-```
-
----
-
 # 💻 Tech Stack
 
 ### 🤖 AI / Machine Learning
